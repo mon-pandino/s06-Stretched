@@ -60,9 +60,10 @@ nav .nav, nav .nav-logo{
 	min-height: 180px;
 }
 #pre-footer{
-	background-color: #161846   ;
+	background-color: #002540   ;
 	color: white;
 	padding-top: 1rem;
+	
 }
 #pre-footer div {
 
@@ -73,6 +74,7 @@ nav .nav, nav .nav-logo{
 	margin-right: 0.5rem;
 	width: 20%;
 	min-height: 120px;
+
 }
 
 footer {
