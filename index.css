@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body{
+	font-display: 'Open Sans', sans-serif;
+}
+
+nav {
+	/*padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 15px;
+	padding-left: 20px;*/
+	padding: 0.8rem;
+	margin-bottom: 2rem;
+	border-bottom: 1px solid gray;
+	list-style-type: none;
+}
+nav .nav, nav .nav-logo{
+	display: inline;
+	margin: 0.8rem;
+}
+
+#intro {
+	/*margin: 5rem;*/
+	padding: 2rem 10%;
+	text-align: center;
+}
+#intro > h2, #intro p, #succeed-info h2{
+	margin-bottom: 1rem;
+}
+
+#intro button{
+	color: white;
+	background-color: #c2195b;
+	border-radius: 25px;
+	padding: 1rem;
+	font-size: 1rem;
+	font-weight: bold;
+}
+
+#succeed-info {
+	padding: 2rem 10%;
+}
+
+#succeed-info h3, #succeed-info .header {
+	text-align: center;
+	margin-bottom: 1rem;
+}
+
+#succeed-info .card{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	width: 30%;
+	min-height: 180px;
+}
+#pre-footer{
+	background-color: #161846   ;
+	color: white;
+	padding-top: 1rem;
+}
+#pre-footer div {
+
+	display: inline-block;
+	vertical-align: top;
+	text-align: left;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	width: 20%;
+	min-height: 120px;
+}
+
+footer {
+	padding: 1rem;
+	text-align: center;
+}
+footer span{
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+}
