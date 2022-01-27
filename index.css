@@ -63,7 +63,7 @@ nav .nav, nav .nav-logo{
 	background-color: #002540   ;
 	color: white;
 	padding-top: 1rem;
-	
+	text-align: center;
 }
 #pre-footer div {
 
@@ -74,6 +74,8 @@ nav .nav, nav .nav-logo{
 	margin-right: 0.5rem;
 	width: 20%;
 	min-height: 120px;
+	padding-top: 1rem;
+	padding-bottom: 3rem;
 
 }
 
